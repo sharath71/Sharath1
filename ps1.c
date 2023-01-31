@@ -58,4 +58,12 @@ void main(){
 		case 1:details(i);break;
 		case 2:sort();break;
 			}}}
+		
+		
+		
+		
+		
+		
+		
+		
 
